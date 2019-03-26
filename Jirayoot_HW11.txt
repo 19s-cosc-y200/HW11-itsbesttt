@@ -1,0 +1,93 @@
+Project Name: Hands-On Exercises 3.1 - 3.4 (HW11)
+Author: Best Jirayoot
+Date Last Modified: March 26, 2019
+
+-----------------------------------------------------------------------------------------
+
+Question 1
+
+<style>
+
+p {
+	background-color: #008000;
+	color: #ffffff;
+}
+
+</style>
+
+-----------------------------------------------------------------------------------------
+
+Question 2
+
+css stylesheet - hw11.css
+
+body {
+
+	background-color: #EAEAEA;
+	color: #000033;
+}
+
+HTML Code
+
+<head>
+
+	<title> Homework 11 </title>
+
+	<meta charset="utf-8">
+
+	<link rel="stylesheet" href=hw11.css>
+
+</head>
+
+<body>
+
+	<main>
+
+		<p> random text </p>
+
+	</main>
+
+</body>
+
+-----------------------------------------------------------------------------------------
+
+Question 3
+
+p {
+	color: #A52A2A;
+	font-size: 1.2em;
+	font-family: Arial, Verdana, Sans Serif;
+}
+
+-----------------------------------------------------------------------------------------
+
+Question 4
+
+css stylesheet - hwk11.css
+
+.new {
+	font-weight: bold;
+	font-style: italic;
+}
+
+HTML Code
+
+<head>
+
+	<title> Homework 11 </title>
+
+	<meta charset="utf-8">
+
+	<link rel="stylesheet" href="hwk11.css">
+
+</head>
+
+<body>
+
+	<main>
+
+		<p class="new"> This is a sample text </p>
+
+	</main>
+
+</body>
