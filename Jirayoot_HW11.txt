@@ -15,11 +15,15 @@ p {
 
 </style>
 
+inline, not embedded
+
 -----------------------------------------------------------------------------------------
 
 Question 2
 
 css stylesheet - hw11.css
+
+embedded, not external
 
 body {
 
@@ -59,9 +63,13 @@ p {
 	font-family: Arial, Verdana, Sans Serif;
 }
 
+body, not p tag
+
 -----------------------------------------------------------------------------------------
 
 Question 4
+
+embedded, not external
 
 css stylesheet - hwk11.css
 
